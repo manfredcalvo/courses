@@ -1,2 +1,2 @@
 # courses
-In this repo I am saving all the code I did in online courses.
+This repo contains the code that solves each of the tasks in the online courses.
